@@ -1,0 +1,14 @@
+import java.swing.JOptionPane;
+public class luaspersegi {
+	public stsatic void main(String[] args)
+	{
+	  int L;
+	  String bil1 = JOptionPan.showInputDialog("Masukkan Sisi");
+	  int s = Integer.parseInt(bil1);
+	  l = s*s;
+
+	  JOptionPane.showMessageDialog(NULL, "Luas Persegi Adalah " + L);
+
+
+  }
+}
